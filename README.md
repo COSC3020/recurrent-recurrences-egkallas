@@ -10,7 +10,7 @@ $$ T(n) =
         T\left(\frac{n}{13}\right) + 5 & n > 1
     \end{cases}
 $$<br>
-$T(n) \in log^n$
+$T(n) \in \Theta(log^n)$<br>
 
 2.
 $$ T(n) =
