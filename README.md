@@ -31,4 +31,4 @@ $$
 
 <br><br>
 
-1. $T(n) \in \Theta(log^n)$<br>
+1. $T(n) \in \Theta(logn)$<br>
