@@ -32,5 +32,5 @@ $$
 <br><br>
 
 1. $T(n) \in \Theta(logn)$<br>
-2. $T(n) \in \Theta(logn)$<br>
+2. $T(n) \in \Theta(n)$<br>
 3. $T(n) \in \Theta(n logn)$<br>
